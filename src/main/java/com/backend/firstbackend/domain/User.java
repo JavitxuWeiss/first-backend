@@ -1,4 +1,4 @@
-package domain;
+package com.backend.firstbackend.domain;
 
 import javax.persistence.*;
 
