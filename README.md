@@ -2,6 +2,7 @@
 
 * make devel-env (run mysql docker container)
 * Just run the application
+* When application runs the database migrations will be execute.
 
 # Read Me First
 The following was discovered as part of building this project:
