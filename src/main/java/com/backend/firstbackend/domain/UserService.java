@@ -18,7 +18,7 @@ public class UserService {
 
         return users
                 .stream()
-                .map(user -> user.toDTO())
+                .map(User::toDTO)
                 .collect(Collectors.toList());
     }
 }
